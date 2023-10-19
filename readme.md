@@ -13,14 +13,14 @@
 
 - :school: I am a RPA developer and support at Bosch.
 - :student: I’m currently learning `Software Engineering`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://www.linkedin.com/in/marcos-enrico-damazzini-godinho-6b33a7197/).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://www.linkedin.com/in/marcos-enrico-damazzini-godinho-6b33a7197/](https://www.linkedin.com/in/marcos-godinho-6b33a7197/)).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:marcosenrico03@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/MarcosGodinho"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://www.linkedin.com/in/marcos-enrico-damazzini-godinho-6b33a7197/" alt="LinkedIn"/></a>
+	<a href="[https://www.linkedin.com/in/7oskaa/](https://www.linkedin.com/in/marcos-godinho-6b33a7197/)"><img src="[https://www.linkedin.com/in/marcos-enrico-damazzini-godinho-6b33a7197/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
 </p>
 
 
