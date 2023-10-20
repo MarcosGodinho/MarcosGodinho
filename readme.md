@@ -13,7 +13,7 @@
 
 - :school: I am a RPA developer and support at Bosch.
 - :student: I’m currently learning `Software Engineering`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://www.linkedin.com/in/marcos-enrico-damazzini-godinho-6b33a7197/](https://www.linkedin.com/in/marcos-godinho-6b33a7197/)).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://drive.google.com/file/d/1iYwed9j9bwF7Rn08f3BIhnCGS6hjvAKR/view?usp=share_link]).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
